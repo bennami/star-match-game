@@ -4,7 +4,7 @@
 
 
 star-match game using hooks and stateful components.
-created custom hooks that manages the states and changes of such states.
+I created a custom hook that manages the states and transacting on them (setting states).
 added a math.js file that contains an object where all the mathematical functions can be found, this is a cool way to reuse functions in different components by simply importing that file as a dependency.
 
 ![preview](https://github.com/bennami/star-match-game/blob/master/preview.png)
